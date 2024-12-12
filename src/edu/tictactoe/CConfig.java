@@ -1,4 +1,4 @@
-package edu.lab14;
+package edu.tictactoe;
 
 public class CConfig {
     public static final String waitingString = "Czekamy na przeciwnika...";

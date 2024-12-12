@@ -1,4 +1,4 @@
-package edu.lab14;
+package edu.tictactoe;
 
 import javax.swing.*;
 import java.awt.*;
