@@ -2,7 +2,7 @@
   <artifact type="jar" name="Lab14:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Lab14_jar</output-path>
     <root id="archive" name="Lab14.jar">
-      <element id="module-output" name="Lab14" />
+      <element id="module-output" name="Tic-Tac-Toe" />
     </root>
   </artifact>
 </component>
