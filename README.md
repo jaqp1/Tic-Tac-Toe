@@ -37,7 +37,10 @@ A simple network-based Tic-Tac-Toe game written in Java, allowing two players to
 - Local network or direct connection between players
 
 ## Screenshots
-![Gameplay Screenshot]([image.png](https://github.com/jaqp1/Tic-Tac-Toe/blob/master/Zrzut%20ekranu%202025-02-25%20202317.png?raw=true))
+![Gameplay Screenshot](https://github.com/jaqp1/Tic-Tac-Toe/blob/master/Zrzut%20ekranu%202025-02-25%20202317.png?raw=true)
+![Gameplay Screenshot](https://github.com/jaqp1/Tic-Tac-Toe/blob/master/Zrzut%20ekranu%202025-02-25%20202326.png?raw=true)
+![Gameplay Screenshot](https://github.com/jaqp1/Tic-Tac-Toe/blob/master/Zrzut%20ekranu%202025-02-25%20202336.png?raw=true)
+![Gameplay Screenshot](https://github.com/jaqp1/Tic-Tac-Toe/blob/master/Zrzut%20ekranu%202025-02-25%20202347.png?raw=true)
 
 
 
